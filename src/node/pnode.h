@@ -24,7 +24,7 @@ See the AUTHORS file for names of contributors.
 #include "phxpaxos/node.h"
 #include "phxpaxos/options.h"
 #include <vector>
-#include "db.h"
+#include "src/logstorage/db.h"
 #include "dfnetwork.h"
 #include "group.h"
 #include "master_damon.h"
